@@ -26,6 +26,5 @@ A frontend or full-stack role where I can build **scalable apps**, craft **clean
 
 ### 📫 Contact  
 📧 Email: **waeltarabishi222@gmail.com**  
-🌐 Website: **wael-tarabishi.vercel.app**
 
 ![githubgif](https://github.com/user-attachments/assets/7c0b0921-2567-467a-857c-b8f5ee34ca8f)
