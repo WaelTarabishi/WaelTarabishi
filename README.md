@@ -40,17 +40,6 @@ I’m looking for a **frontend or full-stack developer role** where I can build 
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Next.js architecture
-- Backend development with Node.js and PostgreSQL
-- Docker and Kubernetes
-- GitHub Actions CI/CD
-- AWS cloud fundamentals
-- System Design and scalable application architecture
-
----
-
 ## 📫 Contact
 
 📧 **Email:** [waeltarabishi222@gmail.com](mailto:waeltarabishi222@gmail.com)  
